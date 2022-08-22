@@ -1913,7 +1913,7 @@ class Main_:
 #		try:
 		folder();open_role()
 		self.__check_update_("2.2")
-		self.__check_status_("aktif")
+		self.__check_status_("Still updating ")
 		get_proxy_socks4()
 		get_proxy_socks5()
 		Main()
