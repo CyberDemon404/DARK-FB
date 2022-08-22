@@ -1912,7 +1912,7 @@ class Main_:
 	def _no_vpn(self):
 #		try:
 		folder();open_role()
-		self.__check_update_("2.0")
+		self.__check_update_("2.2")
 		self.__check_status_("aktif")
 		get_proxy_socks4()
 		get_proxy_socks5()
