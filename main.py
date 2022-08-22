@@ -1917,9 +1917,7 @@ class Main_:
 		get_proxy_socks4()
 		get_proxy_socks5()
 		Main()
-#		except:console.print_exception(show_locals=None,word_wrap=None,max_frames=100,extra_lines=0)
-	def __vpn__(self):
-		Main()
+#		except:console.print_exception(show_locals=None,word_wrap=None,max_frames=100,extra_line)
 
 Main_()._no_vpn()
 #Main_().__vpn__()
