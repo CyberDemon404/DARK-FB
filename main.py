@@ -400,7 +400,7 @@ Log Out From Account (Log Out)"""
 			os.sys.exit()
 		god = ""
 		kotak("# PLEASE ENTER IDZ/USERNAME TO CRACK !!",I,I)
-		idt = input(f">--{i}Target{i}--> : ")
+		idt = input(f">--{h}Target{k}--> : ")
 		limit = ("10000")
 		idt = self.ubah_user(idt)
 		god += ("Nama : "+II+self.ambil_nama(idt)+II+"\n")
