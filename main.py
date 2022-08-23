@@ -264,8 +264,8 @@ class Main():
 
 		my_r = my__.add(f"{c} Master David Chinedu {q}")
 		my_rr= my_r.add(f"\r{k}My Github{q}")
-		my_rr.add(f"{c}https://githuh.com/CyberDemon404{q}")
-		my_rr.add(f"{c}https://githuh.com/DavidKumar45 {q}")
+		my_rr.add(f"{c}https://github.com/CyberDemon404{q}")
+		my_rr.add(f"{c}https://github.com/DavidKumar45 {q}")
 
 		my_rrr=my_r.add(f"\r{i}My WhatsApp{q}")
 		my_rrr.add(f"{b}+2348178406817{q}")
@@ -280,7 +280,7 @@ Jewel-Cyber-Team(JCT)
 FireBase
 Ryhad TM"""
 		pyhon = Syntax(code, "python", theme="monokai", line_numbers=True)
-		my_rrrr=my_r.add(f"\r{b}My Team{X-MASTERS}{q}")
+		my_rrrr=my_r.add(f"\r{b}My Team{q}")
 		my_rrrr.add(Group(pyhon))
 
 
